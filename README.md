@@ -1,6 +1,8 @@
 # Sticky Note developed using JavaScript
  
-![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-javascript-projects/master/praveenorugantitech-sticky-note/screenshot.PNG "Sticky Note")
+<div>
+<img align="right" width="100%"  src="screenshot.PNG" />
+</div>
 
 
 [Live Demo](http://praveenorugantitech.github.io/praveenorugantitech-sticky-note-js/Demo/)
